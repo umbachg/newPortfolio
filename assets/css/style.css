@@ -41,7 +41,7 @@
     -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    background: url("../images/flowers.jpg") center center no-repeat;
+    background: url("../images/through-trees.jpg") center center no-repeat;
     background-size: cover;
   }
   
@@ -82,7 +82,7 @@ h1, h3 {
 }
 
 #main-content-section {
-    background-color: #b599a2;
+    background-color: #819ca9;
 }
 
 .intro {
@@ -112,7 +112,7 @@ h1, h3 {
 
 .contact-us-section {
     padding: 2rem;
-    background: #b599a2;
+    background: #819ca9;
   }
   
   .contact-us-section .contact-us-section-left {
