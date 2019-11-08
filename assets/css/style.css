@@ -71,7 +71,16 @@ p {
     font-size: 25px;
 }
 
-h1, h3 {
+h1 {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: bold;
+    font-size: 55px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+h3 {
     font-family: 'Playfair Display SC', serif;
     font-weight: bold;
 }
